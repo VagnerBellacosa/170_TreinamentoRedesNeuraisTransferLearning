@@ -31,7 +31,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Projeto Final](https://web.dio.me/lab/treinamento-de-redes-neurais-com-transfer-learning/learning/3757ac18-cf09-4a3f-bef1-637696396569)[Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/treinamento-de-redes-neurais-com-transfer-learning/learning/488fffcd-b516-4654-ba32-474459d07103)
+- [Projeto Final](https://web.dio.me/lab/treinamento-de-redes-neurais-com-transfer-learning/learning/3757ac18-cf09-4a3f-bef1-637696396569)
+- [Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/treinamento-de-redes-neurais-com-transfer-learning/learning/488fffcd-b516-4654-ba32-474459d07103)
 
 
 
